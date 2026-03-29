@@ -1,8 +1,7 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+name: Silicon Cloud
+title: Learn Cloud Computing, GPU, AI & DevOps
+description: Learn cloud computing, GPU infrastructure, AI workloads, and DevOps with easy guides, tutorials, and expert insights on Silicon Cloud.
 tags:
   - blog
   - template
